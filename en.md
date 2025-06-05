@@ -1,4 +1,5 @@
-````markdown
+# API Design
+
 ## 1. Use HTTP Methods Appropriately
 
 - **GET** — to retrieve resources (idempotent)
@@ -14,7 +15,6 @@
   ```http
   GET /products/123/delete
   ```
-````
 
 - **Correct:**
 
