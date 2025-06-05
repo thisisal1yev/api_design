@@ -52,10 +52,6 @@ The document is structured with visual examples of ❌ _Incorrect_ vs ✅ _Corre
 
 ---
 
-Mana ushbu matnning o‘zbek tiliga markdown formatida tarjimasi:
-
----
-
 # Hujjatga umumiy nazar
 
 Ushbu hujjat REST API'ni loyihalash bo‘yicha tavsiyalar va eng yaxshi amaliyotlar to‘plamidir. U veb-servislar va mikroservisli arxitekturalar bilan ishlovchi endigina dasturlashni boshlagan backend-dasturchilar uchun mo‘ljallangan bo‘lib, mijoz ilovalari bilan server logikasi o‘rtasidagi interfeyslarni qulay, kengaytiriladigan va xavfsiz qilishga yordam beradi.
@@ -79,3 +75,5 @@ Hujjat har bir mavzuni **“Noto‘g‘ri ❌”** va **“To‘g‘ri ✅”** 
 ---
 
 > **Har bir dasturchining ushbu repozitoriy rivojiga qo‘shgan hissasini qadrlayman. Agar sizda hujjatni yaxshilash bo‘yicha g‘oyalar, yangi tavsiyalar yoki aniqlangan xatoliklar bo‘lsa — iltimos, bemalol Pull Request yarating.**
+
+---
